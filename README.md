@@ -19,7 +19,8 @@ Já o usuário(cliente):
 Para acessar como administrador
 - Email: admim@email.com
 - Senha: adm123
-Para acessar como administrador
+
+Para acessar como Usuário
 - Email: user@email.com
 - Senha: user123
 
